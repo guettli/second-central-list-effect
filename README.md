@@ -57,3 +57,22 @@ Now there are two central lists. This is a contraction.
 
 Now information is scattered and things get worse, although it feels good today.
 
+Of course above text simplifies a lot of things and usualy there are good reasons for new systems.
+They have new features and a simpler user experience.
+
+I know this sounds disrespectful, neverthless I will use this word: Childish. I have seen
+this childish joy about a new systems several times. And then some years later
+the once shiny new thing is a bloated beast which contains a lot of (today) unrelevant information.
+
+That's live.
+
+# Alternatives?
+
+Which alternatives exist?
+
+1) you can start from scratch with your old system. Just delete everything which was not touched since X months. Choose the variable X.
+
+2) Build a clean-up task-force. A small team should care for outdated information.
+
+3) Before choosing a new system, set up a prototype of the new system and load all the old data into the new system. Then compare the features: Is the new system still fast and easy to use?
+
