@@ -34,7 +34,7 @@ since only new and valid information is visible.
 
 Don't get fooled by your feelings.
 
-You just start again from scratch.
+You just start again from scratch. That's what gives you the feeling of relief.
 
 Imagine that you up to now use a tool called "Boring247".
 
