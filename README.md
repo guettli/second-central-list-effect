@@ -53,15 +53,20 @@ The system which you use for your central list does not matter much.
 
 If you choose the shiny new tool: Now you loose one very important aspect.
 
-Now there are two central lists. This is a contraction.
+Now there are two central lists. This is a contradiction. 
 
-Now information is scattered and things get worse, although it feels good today.
+Now information is scattered and things get worse, although it feels good today. Employees need to look
+up in two systems: the old one and the new one. You think the old system won't be used anymore if the new system
+arrives? If you don't have a clear strategy here, you will have some hardliners in your company which refuse to use the new
+systems. Don't be surprised that there are hardliners who want to keep the old systems. 
+It is likely that during the euphoria phase you just not heard their opinion. 
+You only heard the "hurray" from the over-motivated group.
 
 Of course, the above text simplifies a lot of things and usually there are good reasons for new systems.
-They have new features and simpler user experience.
+They have often new features and a simpler user experience.
 
 I know this sounds disrespectful, nevertheless, I will use this word: Childish. I have seen
-this childish joy about new systems several times. And then some years later
+this childish joy about new systems several times. And then some years later,
 the once shiny new thing is a bloated beast which contains a lot of (today) irrelevant information.
 
 That's live.
