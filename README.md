@@ -1,4 +1,4 @@
-# Second central list effect
+# Second central system effect
 
 In the past there was the [Second system effect](https://en.wikipedia.org/wiki/Second-system_effect):
 
@@ -9,17 +9,20 @@ In the past, a lot of second systems failed because of over-engineering.
 
 But time has changed. Fewer systems get developed from scratch these days. There is now a different effect.
 
-What does the "second central list" mean? If you have a close look at these three terms, then you see something is strange. "Central list" suggests that there is exactly **one** central list. But "second"?
+What does the "second central system" mean? If you have a close look at these three terms, then you see something is strange. "Central system" suggests that there is exactly **one** central system. But "second"?
 
-In this context, I speak about systems in the intranet of a company. You have several central lists: customers, contracts, assets. These lists are crucial and usually don't get duplicated without a migration plan for the old data. These central systems are or are like [ERP systems](https://en.wikipedia.org/wiki/Enterprise_resource_planning). They get replaced less often.
+In this context, I speak about systems in the intranet of a company. Examples: [Document management systems](https://en.wikipedia.org/wiki/Document_management_system), [Content management systems](https://en.wikipedia.org/wiki/Content_management_system), [Customer relationship management systems](https://en.wikipedia.org/wiki/Customer_relationship_management), [Issue tracking systems](https://en.wikipedia.org/wiki/Issue_tracking_system),
+[Collaborative software](https://en.wikipedia.org/wiki/Collaborative_software), [Wiki systems](https://en.wikipedia.org/wiki/Wiki_software)...
 
-But central lists of non-ERP type like issues, tickets, customer request, terms (wikis), process documentation ... these central lists are less crucial and tend to get replaced without preliminary consideration.
 
-Let's provide some examples of non-ERP "central lists": Sharepoint, Jira, Confluence, Zendesk, Redmine, YouTrack, Gitlab, DokuWiki, XWiki, ...
+It does not apply 100% to [ERP system](https://en.wikipedia.org/wiki/Enterprise_resource_planning) system, since they get replaced less often.
+
+
+Let's provide some examples of non-ERP "central systems": Sharepoint, Jira, Confluence, Zendesk, Redmine, YouTrack, Gitlab, DokuWiki, XWiki, Slack, ...
 
 If one of the above tools gets used for some years, then no employee loves these systems because they tend to be full of outdated information.
 
-If a new system gets introduced, the **second central list effect** gives you a new working tool and this feels like a great relief. Everything is shiny, new, crips. No bloat, no outdated content.
+If a new system gets introduced, the **second central system effect** gives you a new working tool and this feels like a great relief. Everything is shiny, new, crips. No bloat, no outdated content.
 
 Everybody is excited and everybody loves the new baby.
 
@@ -49,11 +52,11 @@ You could just start from scratch with Boring247.
 
 What feels great is "starting from scratch".
 
-The system which you use for your central list does not matter much.
+The system which you use for your central system does not matter much.
 
 If you choose the shiny new tool: Now you loose one very important aspect.
 
-Now there are two central lists. This is a contradiction. 
+Now there are two central systems. This is a contradiction. 
 
 Now information is scattered and things get worse, although it feels good today. Employees need to look
 up in two systems: the old one and the new one. You think the old system won't be used anymore if the new system
@@ -70,6 +73,24 @@ this childish joy about new systems several times. And then some years later,
 the once shiny new thing is a bloated beast which contains a lot of (today) irrelevant information.
 
 That's live.
+
+# Example: From email to internal chat.
+
+People complain, that they get too many mails, and that email is more distracting than helpful.
+
+Then they switch from email to an internal chat (for example slack)
+
+Wow, that's great (at the beginning). Only relevant information is in chat. No distraction any more.
+
+Some days pass.
+
+Then people discover that you can send animated gifs. Isn't it great? Some love it, for
+some (like me) it is plain useless and distracting.
+
+Wow, there is even a very cool feature: You have bots. And these bots can send reminders ...
+
+Sooner or later you get more flashing and distracting chat messages than you got emails in the past. 
+
 
 # Alternatives?
 
