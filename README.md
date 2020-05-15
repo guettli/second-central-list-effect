@@ -91,6 +91,21 @@ Wow, there is even a very cool feature: You have bots. And these bots can send r
 
 Sooner or later you get more flashing and distracting chat messages than you got emails in the past. 
 
+# Example: From Sharepoint to ...
+
+There so many alternatives to Sharepoint, and at least I don't see that the bandwagen effect has already
+settled to one prominent alternative. I will use Foo has imaginary alternative.
+
+It is hard to find relevant information in your current intranet?
+
+Then you search for alternatives.
+
+I think Foo is the right tool. It has nice features ....
+
+# Example: From SAP to ...
+
+This is a change which most people avoid up to now.
+
 
 # Alternatives?
 
