@@ -106,6 +106,7 @@ I think Foo is the right tool. It has nice features ....
 
 This is a change which most people avoid up to now.
 
+In this context (ERP), people know that you must have only one system, and not two.
 
 # Alternatives?
 
