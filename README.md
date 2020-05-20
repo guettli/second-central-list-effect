@@ -102,11 +102,16 @@ Then you search for alternatives.
 
 I think Foo is the right tool. It has nice features ....
 
+# Example: From Jive to ...
+
+same as above.
+
 # Example: From SAP to ...
 
 This is a change which most people avoid up to now.
 
 In this context (ERP), people know that you must have only one system, and not two.
+
 
 # Alternatives?
 
