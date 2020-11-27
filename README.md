@@ -122,3 +122,8 @@ Which alternatives exist?
 2) Build a clean-up task-force. A small team should care for outdated information.
 
 3) Before choosing a new system, set up a prototype of the new system and load all the old data into the new system. Then compare the features: Is the new system still fast and easy to use?
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
