@@ -112,6 +112,14 @@ This is a change which most people avoid up to now.
 
 In this context (ERP), people know that you must have only one system, and not two.
 
+# Dirty Content vs Dirty Container
+
+With "container" I mean the software you work with. With "content" I mean the content you and your collegues create.
+
+People tend to blame the container if the content is dirty. Of course there are shiny new containers which have some features, which
+the current container does not have. But the beauty of the new container is its clean survace. Why is the new container so beautiful? 
+It contains no outdated content. Be aware that, although you think you are rational thinking being, you (like every human) get fooled
+by your own non-rational instinct easily. It is almost impossible to distinguish between a dirty container and dirty content.
 
 # Alternatives?
 
